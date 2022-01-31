@@ -1,7 +1,7 @@
 # PyBer_Analysis
 ## Overview
 ### Purpose
-PyBer has asked me to analyze their ride-sharing data in order to improve access to ride-sharing services and determine affordability for underserved neighborhoods.
+PyBer has asked me to analyze their ride-sharing data in order to improve access to ride-sharing services and determine affordability for underserved neighborhoods. I created visualizations to make indentifying trends more clear and to present back to PyBer after conducting my analysis.
 
 
 ## Results
