@@ -8,7 +8,7 @@ PyBer has asked me to analyze their ride-sharing data in order to improve access
 
 ![](analysis/PyBer_summary_df1.png)
 
-#### Availability and Demand
+### Availability and Demand
 The DataFrame above represents the sum of the total fares in each city type each week from 1/1/19 to 4/29/19. The biggest stand-out is the availability of drivers in the three city types. Urban cities accounted for over 80% of the total PyBer drivers in the country. Additionally, Urban cities dominated the total amount of rides accounting for almost 70% of all PyBer rides taken. The availability of PyBer's services or other similar services in urban cities could surely be factor in urban cities having the lowest average fare per ride, but more research must be done to determine if there is correlation or causation between these two factors. The fact that suburban and rural cities trail so far behind urban cities in both total drivers and rides could very simply be a product of lesser demand for PyBer's services, which then has an impact on average fare per ride and average fare per driver.
 
 ### Average Fare per Ride
